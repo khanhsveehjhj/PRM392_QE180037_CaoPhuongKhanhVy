@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Phone -->
+    <integer name="span_count_list_phone">1</integer>
+    <integer name="span_count_grid_phone">2</integer>
+
+    <!-- Tablet -->
+    <integer name="span_count_list_tablet">2</integer>
+    <integer name="span_count_grid_tablet">3</integer>
+</resources>
